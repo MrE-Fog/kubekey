@@ -36,21 +36,21 @@ require (
 	golang.org/x/crypto v0.3.0
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.9.4
-	k8s.io/api v0.27.1
+	k8s.io/api v0.27.2
 	k8s.io/apiextensions-apiserver v0.26.1
-	k8s.io/apimachinery v0.27.1
+	k8s.io/apimachinery v0.27.2
 	k8s.io/apiserver v0.26.1
-	k8s.io/cli-runtime v0.25.4
-	k8s.io/client-go v0.26.1
+	k8s.io/cli-runtime v0.27.2
+	k8s.io/client-go v0.27.2
 	k8s.io/cluster-bootstrap v0.25.4
 	k8s.io/component-base v0.26.1
 	k8s.io/klog/v2 v2.90.1
 	k8s.io/kubectl v0.25.4
 	k8s.io/utils v0.0.0-20230209194617-a36077c30491
 	sigs.k8s.io/cluster-api v1.2.6
-	sigs.k8s.io/cluster-api/test v1.4.1
+	sigs.k8s.io/cluster-api/test v1.4.2
 	sigs.k8s.io/controller-runtime v0.14.5
-	sigs.k8s.io/kind v0.17.0
+	sigs.k8s.io/kind v0.18.0
 	sigs.k8s.io/yaml v1.3.0
 )
 
@@ -92,7 +92,7 @@ require (
 	github.com/deislabs/oras v0.9.0 // indirect
 	github.com/docker/cli v20.10.17+incompatible // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
-	github.com/docker/docker v20.10.21+incompatible // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/docker/go-connections v0.4.1-0.20190612165340-fd1b1942c4d5 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
@@ -106,7 +106,7 @@ require (
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/fvbommel/sortorder v1.0.1 // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
-	github.com/go-errors/errors v1.0.1 // indirect
+	github.com/go-errors/errors v1.4.2 // indirect
 	github.com/go-gorp/gorp/v3 v3.0.2 // indirect
 	github.com/go-openapi/jsonpointer v0.19.6 // indirect
 	github.com/go-openapi/jsonreference v0.20.1 // indirect
@@ -238,10 +238,10 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	k8s.io/kube-openapi v0.0.0-20230308215209-15aac26d736a // indirect
+	k8s.io/kube-openapi v0.0.0-20230501164219-8b0f38b5fd1f // indirect
 	oras.land/oras-go v1.2.0 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
-	sigs.k8s.io/kustomize/api v0.12.1 // indirect
-	sigs.k8s.io/kustomize/kyaml v0.13.9 // indirect
+	sigs.k8s.io/kustomize/api v0.13.2 // indirect
+	sigs.k8s.io/kustomize/kyaml v0.14.1 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 )
