@@ -9,7 +9,7 @@ replace (
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/containerd/containerd v1.6.10
+	github.com/containerd/containerd v1.6.21
 	github.com/containers/image/v5 v5.21.1
 	github.com/deckarep/golang-set v1.8.0
 	github.com/estesp/manifest-tool/v2 v2.0.3
@@ -25,7 +25,7 @@ require (
 	github.com/modood/table v0.0.0-20220527013332-8d47e76dad33
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.27.5
-	github.com/opencontainers/image-spec v1.1.0-rc1
+	github.com/opencontainers/image-spec v1.1.0-rc2.0.20221005185240-3a7f492d3f1b
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/sftp v1.13.5
 	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
@@ -48,9 +48,9 @@ require (
 	k8s.io/kubectl v0.25.4
 	k8s.io/utils v0.0.0-20230209194617-a36077c30491
 	sigs.k8s.io/cluster-api v1.2.6
-	sigs.k8s.io/cluster-api/test v1.4.2
+	sigs.k8s.io/cluster-api/test v1.4.4
 	sigs.k8s.io/controller-runtime v0.14.5
-	sigs.k8s.io/kind v0.18.0
+	sigs.k8s.io/kind v0.20.0
 	sigs.k8s.io/yaml v1.3.0
 )
 
@@ -68,7 +68,7 @@ require (
 	github.com/Masterminds/sprig/v3 v3.2.3 // indirect
 	github.com/Masterminds/squirrel v1.5.3 // indirect
 	github.com/Microsoft/go-winio v0.5.2 // indirect
-	github.com/Microsoft/hcsshim v0.9.5 // indirect
+	github.com/Microsoft/hcsshim v0.9.8 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d // indirect
 	github.com/alessio/shellescape v1.4.1 // indirect
@@ -91,7 +91,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deislabs/oras v0.9.0 // indirect
 	github.com/docker/cli v20.10.17+incompatible // indirect
-	github.com/docker/distribution v2.8.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/docker/go-connections v0.4.1-0.20190612165340-fd1b1942c4d5 // indirect
@@ -160,7 +160,7 @@ require (
 	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/mattn/go-shellwords v1.0.12 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.2 // indirect
+	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/miekg/pkcs11 v1.1.1 // indirect
 	github.com/mistifyio/go-zfs/v3 v3.0.0 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
@@ -180,7 +180,7 @@ require (
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/onsi/ginkgo/v2 v2.9.2 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/opencontainers/runc v1.1.4 // indirect
+	github.com/opencontainers/runc v1.1.5 // indirect
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417 // indirect
 	github.com/opencontainers/selinux v1.10.2 // indirect
 	github.com/ostreedev/ostree-go v0.0.0-20210805093236-719684c64e4f // indirect
