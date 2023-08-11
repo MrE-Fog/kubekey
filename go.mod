@@ -37,13 +37,13 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.11.1
 	k8s.io/api v0.27.4
-	k8s.io/apiextensions-apiserver v0.27.2
+	k8s.io/apiextensions-apiserver v0.27.4
 	k8s.io/apimachinery v0.27.4
-	k8s.io/apiserver v0.27.2
+	k8s.io/apiserver v0.27.4
 	k8s.io/cli-runtime v0.27.2
-	k8s.io/client-go v0.27.2
+	k8s.io/client-go v0.27.4
 	k8s.io/cluster-bootstrap v0.27.2
-	k8s.io/component-base v0.27.2
+	k8s.io/component-base v0.27.4
 	k8s.io/klog/v2 v2.90.1
 	k8s.io/kubectl v0.26.0
 	k8s.io/utils v0.0.0-20230209194617-a36077c30491
