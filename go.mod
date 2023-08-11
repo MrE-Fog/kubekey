@@ -42,7 +42,7 @@ require (
 	k8s.io/apiserver v0.27.2
 	k8s.io/cli-runtime v0.27.2
 	k8s.io/client-go v0.27.2
-	k8s.io/cluster-bootstrap v0.27.2
+	k8s.io/cluster-bootstrap v0.27.4
 	k8s.io/component-base v0.27.2
 	k8s.io/klog/v2 v2.90.1
 	k8s.io/kubectl v0.26.0
